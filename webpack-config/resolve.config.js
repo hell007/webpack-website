@@ -1,5 +1,5 @@
 module.exports = {
-    root: [],
-    //设置require或import的时候可以不需要带后缀
-    extensions: ['', '.js', '.less', '.css']
+    
+    //当require的模块找不到时，尝试添加这些后缀后进行寻找
+    extensions: ['.js', '.less', '.css']
 };

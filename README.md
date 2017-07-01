@@ -1,5 +1,5 @@
-#项目初始化安装
-***
+#webpack2-website
+
 ## 1、安装所需要的依赖
 ```
 npm install
@@ -8,7 +8,7 @@ npm install
 
 ## 2、运行指令
 ```
-npm run dev
+npm run start
 
 ```
 
