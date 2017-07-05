@@ -5,7 +5,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"win-start": "cross-env NODE_ENV=dev webpack-dev-server --config ./webpack.dev.config.js --open --hot --inline",
-		"win-dev": "cross-env NODE_ENV=dev webpack --progress --colors --config ./webpack.dev.config.js",
+		"win-dev": "cross-env NODE_ENV=dev webpack --progress --colors --config ./webpack.config.js",
 		"win-build": "cross-env NODE_ENV=production webpack --progress --colors  --config webpack.config.js",
 		"start": "export NODE_ENV=dev && webpack-dev-server --config ./webpack.dev.config.js --open --hot  --inline",
 		"dev": "export NODE_ENV=dev && webpack --progress --colors --config ./webpack.dev.config.js",
