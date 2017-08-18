@@ -47,5 +47,5 @@ npm run build
 	没有跨域问题，无需考虑缓存、文件头或者cookies问题
    
  
-### 2. ![webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318)
+### 2. [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318)
 
