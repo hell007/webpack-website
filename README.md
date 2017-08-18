@@ -47,8 +47,5 @@ npm run build
 	没有跨域问题，无需考虑缓存、文件头或者cookies问题
    
  
-### 2.
-
-## 6.问题
-	1. CssSprites未解决  gulp 或者是 sprite-loader 在此项目下使用方案都未能解决
+### 2. ![webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318)
 
