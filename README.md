@@ -1,18 +1,15 @@
-#webpack2-website
+# webpack2-website
 
 ## 1、安装所需要的依赖
-```
-npm install
 
-```
+	npm install
 
 ## 2、运行指令
-```
-npm run start
 
-```
+	npm run start
 
 ## 3、开发
+
 输入网址：<br>
    http://localhost:3000/
    
@@ -23,10 +20,9 @@ npm run start
    http://localhost:3000/about.html
 
 ## 4、编译打包
-```
-npm run build
 
-```
+	npm run build
+
 
 ## 5、知识点总结
 
